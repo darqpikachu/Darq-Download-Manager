@@ -4,7 +4,7 @@
 
 --------------------------------------------------------------------------------------------------
 
-DDM Basic
+# DDM Basic
 
 ![alt text](https://raw.githubusercontent.com/darqpikachu/Darq-Download-Manager/main/basic-ui.png?raw=true)
 
@@ -30,7 +30,7 @@ Empower your downloads with the Darq Download Manager – a versatile and user-f
 
 --------------------------------------------------------------------------------------------------
 
-DDM Advanced
+# DDM Advanced
 
 ![alt text](https://raw.githubusercontent.com/darqpikachu/Darq-Download-Manager/main/advanced-ui.png?raw=true)
 
