@@ -2,9 +2,11 @@
 
 ![alt text](https://raw.githubusercontent.com/darqpikachu/Darq-Download-Manager/main/DDM.ico?raw=true)
 
-!Darq Download Manager
+--------------------------------------------------------------------------------------------------
 
-![alt text](https://raw.githubusercontent.com/darqpikachu/Darq-Download-Manager/main/ui.png?raw=true)
+DDM Basic
+
+![alt text](https://raw.githubusercontent.com/darqpikachu/Darq-Download-Manager/main/basic-ui.png?raw=true)
 
 Empower your downloads with the Darq Download Manager – a versatile and user-friendly tool that enhances your downloading experience. With features like a dynamic progress tracker, real-time download speed monitoring, you can download smarter and faster than ever before.
 
@@ -22,12 +24,36 @@ Empower your downloads with the Darq Download Manager – a versatile and user-f
 1. Enter the URL of the file you want to download.
 2. Select the destination folder where you want to save the downloaded file.
 3. Click the "Start Download" button to begin the download.
-4. And it will download at max speed.
+4. Track the download progress in real-time.
+5. And it that easy to download any file.
 
 
 --------------------------------------------------------------------------------------------------
 
+DDM Advanced
 
+![alt text](https://raw.githubusercontent.com/darqpikachu/Darq-Download-Manager/main/advanced-ui.png?raw=true)
+
+Empower your downloads with the Darq Download Manager – a versatile and user-friendly tool that enhances your downloading experience. With features like having to select your workers(connections to server) up to 128. So now you can download better, smarter and faster than ever before.
+
+
+## Features
+
+- **Customizable Workers:** Adjust the number of workers to optimize your download speed.
+- **User-Friendly Interface:** A sleek and intuitive interface makes downloading files a breeze.
+- **Folder Selection:** Choose your preferred download destination folder with ease.
+
+
+## How to Use
+
+1. Enter the URL of the file you want to download.
+2. Select the destination folder where you want to save the downloaded file.
+3. Adjust the number of workers to optimize your download speed.
+4. Click the "Start Download" button to begin the download.
+5. And it will download at max speed.
+
+
+--------------------------------------------------------------------------------------------------
 MIT License
 
 Copyright (c) [2023] [DarqPikachu]
