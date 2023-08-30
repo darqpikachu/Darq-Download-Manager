@@ -59,6 +59,7 @@ Empower your downloads with the Darq Download Manager – a versatile and user-f
 ## Download links
 
 [DDM Basic](https://github.com/darqpikachu/Darq-Download-Manager/releases/download/DDM-Basic/DDM.Basic.exe)
+
 [DDM Advanced](https://github.com/darqpikachu/Darq-Download-Manager/releases/download/DDM-Advanced/DDM.Advanced.exe)
 
 
