@@ -56,7 +56,7 @@ Empower your downloads with the Darq Download Manager – a versatile and user-f
 --------------------------------------------------------------------------------------------------
 
 
-##MIT License
+## MIT License
 
 Copyright (c) [2023] [DarqPikachu]
 
