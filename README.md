@@ -4,14 +4,14 @@
 
 --------------------------------------------------------------------------------------------------
 
-# DDM Basic
+## DDM Basic
 
 ![alt text](https://raw.githubusercontent.com/darqpikachu/Darq-Download-Manager/main/basic-ui.png?raw=true)
 
 Empower your downloads with the Darq Download Manager – a versatile and user-friendly tool that enhances your downloading experience. With features like a dynamic progress tracker, real-time download speed monitoring, you can download smarter and faster than ever before.
 
 
-## Features
+### Features
 
 - **User-Friendly Interface:** A sleek and intuitive interface makes downloading files a breeze.
 - **Dynamic Progress Tracking:** Watch your downloads' progress in real-time with an interactive progress bar.
@@ -19,7 +19,7 @@ Empower your downloads with the Darq Download Manager – a versatile and user-f
 - **Folder Selection:** Choose your preferred download destination folder with ease.
 
 
-## How to Use
+### How to Use
 
 1. Enter the URL of the file you want to download.
 2. Select the destination folder where you want to save the downloaded file.
@@ -30,21 +30,21 @@ Empower your downloads with the Darq Download Manager – a versatile and user-f
 
 --------------------------------------------------------------------------------------------------
 
-# DDM Advanced
+## DDM Advanced
 
 ![alt text](https://raw.githubusercontent.com/darqpikachu/Darq-Download-Manager/main/advanced-ui.png?raw=true)
 
 Empower your downloads with the Darq Download Manager – a versatile and user-friendly tool that enhances your downloading experience. With features like having to select your workers(connections to server) up to 128. So now you can download better, smarter and faster than ever before.
 
 
-## Features
+### Features
 
 - **Customizable Workers:** Adjust the number of workers to optimize your download speed.
 - **User-Friendly Interface:** A sleek and intuitive interface makes downloading files a breeze.
 - **Folder Selection:** Choose your preferred download destination folder with ease.
 
 
-## How to Use
+### How to Use
 
 1. Enter the URL of the file you want to download.
 2. Select the destination folder where you want to save the downloaded file.
@@ -54,7 +54,9 @@ Empower your downloads with the Darq Download Manager – a versatile and user-f
 
 
 --------------------------------------------------------------------------------------------------
-MIT License
+
+
+##MIT License
 
 Copyright (c) [2023] [DarqPikachu]
 
