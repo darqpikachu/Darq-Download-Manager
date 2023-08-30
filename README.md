@@ -4,7 +4,7 @@
 
 --------------------------------------------------------------------------------------------------
 
-## DDM Basic
+## [DDM Basic](https://github.com/darqpikachu/Darq-Download-Manager/releases/download/DDM-Basic/DDM.Basic.exe)
 
 ![alt text](https://raw.githubusercontent.com/darqpikachu/Darq-Download-Manager/main/basic-ui.png?raw=true)
 
@@ -30,7 +30,7 @@ Empower your downloads with the Darq Download Manager – a versatile and user-f
 
 --------------------------------------------------------------------------------------------------
 
-## DDM Advanced
+## [DDM Advanced](https://github.com/darqpikachu/Darq-Download-Manager/releases/download/DDM-Advanced/DDM.Advanced.exe)
 
 ![alt text](https://raw.githubusercontent.com/darqpikachu/Darq-Download-Manager/main/advanced-ui.png?raw=true)
 
@@ -51,6 +51,15 @@ Empower your downloads with the Darq Download Manager – a versatile and user-f
 3. Adjust the number of workers to optimize your download speed.
 4. Click the "Start Download" button to begin the download.
 5. And it will download at max speed.
+
+
+--------------------------------------------------------------------------------------------------
+
+
+## Download links
+
+[DDM Basic](https://github.com/darqpikachu/Darq-Download-Manager/releases/download/DDM-Basic/DDM.Basic.exe)
+[DDM Advanced](https://github.com/darqpikachu/Darq-Download-Manager/releases/download/DDM-Advanced/DDM.Advanced.exe)
 
 
 --------------------------------------------------------------------------------------------------
